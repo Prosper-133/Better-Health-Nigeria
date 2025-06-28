@@ -89,10 +89,10 @@ We conducted user research, interviews, and received feedback to improve our wir
   - Occupation: Community health worker
   - Income: Very minimal, relying on occasional stipends from NGOs and farming.
 
-- [x] **Personal Story**:
+- [x] **User Story**:
 Umuebule; Nneoma's village lacks a functional healthcare center, thus villagers visit herbal healers and those seeking proper healthcare are forced to travel to the city. Due to transportation issues most of them end up struggling with common illnesses and even die when the conditions severely deteriorate.Often times, she accompanies patients to the City, giving up her time and very little resources. Nneoma dreams of having a reliable healthcare solution that would improve her community's health and reduce her workload.
 
-- [x] **Pain Points and Challenges**:
+- [x] **User Pain Points and Challenges**:
   - Limited healthcare access: Nneoma's village lacks adequate healthcare services, leading to delayed treatment and poor health outcomes.
   - Transportation challenges: Traveling to distant healthcare facilities is time-consuming, expensive, and often unreliable.
   - Limited resources: Nneoma's community lacks access to trained healthcare professionals, medical equipment, and essential supplies.
@@ -101,7 +101,7 @@ By understanding Nneoma's challenges and context, the solar-powered telehealth s
 
 ### User Interview and Feedback to Improve Telehealth Website
 
-#### User Interviewed:
+#### Potential Users Interviewed:
 - Ihuoma ezemdi
 - Rachael blessings
 - Chigozie Patrick
@@ -144,12 +144,13 @@ However, he had concerns and suggested the following:
 ##### Feedback 4
 The user found the platform inclusive and easy to follow, appreciating the language options and step-by-step process.
 
-However, se raised concerns about:
+However, she raised concerns about:
 
 - Technical challenges in rural areas (poor network, power outages).
 - Vital sign monitoring tool (confusion about the tool, cost, and practicality).
 - Too many touchpoints
 
+We used the feedbacks to improve our wireframe.
 
 ## Team's Project Pitch Slide Deck
 
