@@ -48,8 +48,20 @@ Through divergent thinking, we brainstormed indiviually and collectively. We cam
 
 ## Team's Final Idea
 
+![d617399b8e306964329913670caabf00](https://github.com/user-attachments/assets/5b42398d-780d-4d7c-b6ce-d42e01c38b60)
+
 Through convergent thinking, we finalized on a possible solution. The solution idea is;
-- Solar-powered Telehealth Stations:
+- Solar-powered Telehealth Stations: Solar-powered telehealth stations will be built across different areas in
+communities with the following features:
+
+- [x] 24/7 power supply with solar panels
+- [x] 24/7 Internet Connectivity with 5G router
+- [x] Electronic device: A Tablet or Flat screen for the telehealth website
+- [x] Free & Easy-to-use vital Sign equipment
+- [x] Biometric Drug Dispenser for rountine, anagestics, antihypertensives drugs etc.
+
+Just like making a call in a phone booth even when you do not have a phone, this Solution will enable user walk in to the nearest telehealth station and speak with highly
+qualified health Practitioners.
     
 ## Wireframes For The Telehealth Website
 
@@ -64,29 +76,31 @@ https://miro.com/app/board/uXjVIB79Ij4=/?share_link_id=292209300500
 ## User Researh
 We conducted user research, interviews, and received feedback to improve our wireframe.
 ### User Persona
-User Persona: Nneoma Amadi
-Overview
-Nneoma is a 32-year-old community health worker living in a rural village in south-south Nigeria called Umuebule
+- [x] **User Persona**: Nneoma Amadi
+      
+- [x] **Overview**: Nneoma is a 32-year-old community health worker living in a rural village in south-south Nigeria called Umuebule
+      
+- [x] **Background and Context**: Nneoma lives in the village with limited access to healthcare services. She's passionate about improving health outcomes in her community and has basic training in health education.
 
-Background and Context
-Nneoma lives in the village with limited access to healthcare services. She's passionate about improving health outcomes in her community and has basic training in health education.
+- [x] **Demographics**:
+  - Age: 32
+  - Gender: Female
+  - Location: Rural village (Umuebule), south-south Nigeria
+  - Occupation: Community health worker
+  - Income: Very minimal, relying on occasional stipends from NGOs and farming.
 
-Demographics
-- Age: 32
-- Gender: Female
-- Location: Rural village (Umuebule), south-south Nigeria
-- Occupation: Community health worker
-- Income: Very minimal, relying on occasional stipends from NGOs and farming.
-
-Personal Story
+- [x] **Personal Story**:
 Umuebule; Nneoma's village lacks a functional healthcare center, thus villagers visit herbal healers and those seeking proper healthcare are forced to travel to the city. Due to transportation issues most of them end up struggling with common illnesses and even die when the conditions severely deteriorate.Often times, she accompanies patients to the City, giving up her time and very little resources. Nneoma dreams of having a reliable healthcare solution that would improve her community's health and reduce her workload.
 
-Pain Points and Challenges
-1. Limited healthcare access: Nneoma's village lacks adequate healthcare services, leading to delayed treatment and poor health outcomes.
-2. Transportation challenges: Traveling to distant healthcare facilities is time-consuming, expensive, and often unreliable.
-3. Limited resources: Nneoma's community lacks access to trained healthcare professionals, medical equipment, and essential supplies.
+- [x] **Pain Points and Challenges**:
+  - Limited healthcare access: Nneoma's village lacks adequate healthcare services, leading to delayed treatment and poor health outcomes.
+  - Transportation challenges: Traveling to distant healthcare facilities is time-consuming, expensive, and often unreliable.
+  - Limited resources: Nneoma's community lacks access to trained healthcare professionals, medical equipment, and essential supplies.
 
 By understanding Nneoma's challenges and context, the solar-powered telehealth stations/clinics solution can be tailored to meet the specific needs of rural communities like hers.
+
+### User Interview and Feedback to Improve Telehealth Website
+
 
 
 ## Team's Project Pitch Slide Deck
