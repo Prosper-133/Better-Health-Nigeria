@@ -51,8 +51,13 @@ Through divergent thinking, we brainstormed indiviually and collectively. We cam
 Through convergent thinking, we finalized on a possible solution. The solution idea is;
 - Solar-powered Telehealth Stations:
     
-
 ## Wireframes For The Telehealth Website
+
+Using Miro wireframe tool, We created wireframes for the Telehealth website. The link to the Miro board is below;
+
+https://miro.com/app/board/uXjVIB79Ij4=/?share_link_id=292209300500
+
+![TABLET DESIGN FOR BETTER HEALTH NIGERIA](https://github.com/user-attachments/assets/d8c61c6f-aa61-4c92-a64d-b7cdac54fd8a)
 
 
 
