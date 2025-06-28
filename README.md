@@ -101,6 +101,54 @@ By understanding Nneoma's challenges and context, the solar-powered telehealth s
 
 ### User Interview and Feedback to Improve Telehealth Website
 
+#### User Interviewed:
+- Ihuoma ezemdi
+- Rachael blessings
+- Chigozie Patrick
+- Amaka Ebieroma
+
+#### User Feedback:
+
+##### Feedback 1
+The user found the platform:
+
+- Easy to understand and navigate after initial confusion.
+- Potentially efficient, enabling more patients to be attended to quickly.
+
+However, she suggested:
+
+- Improving graphics to enhance clarity and user experience.
+- She also mentioned that the platform could help address brain drain by: Reducing workload and potentially improving work-life balance for healthcare professionals.
+
+
+##### Feedback 2
+The user found the wireframe to be clear and intuitive, describing a logical user journey for remote healthcare access. She appreciated the language options, step-by-step process, and delivery option for prescriptions.
+
+However, she suggested improvements for:
+
+- Ambiguous labels and icons (e.g., "CONNECT" button, Call Timer, Delivery icon).
+- Enhancing navigation and feedback--progress indicators, breadcrumbs emoji/star ratings.
+- Improving accessibility by using larger font sizes and contrast improvements
+
+##### Feedback 3
+The user found the wireframe intuitive and appreciated its potential for:
+
+- BMI tracking and health education
+- Quick access to medical doctors
+
+However, he had concerns and suggested the following:
+
+- Adding Prescription ID for requesting drugs
+- Improving design elements for better user experience
+
+##### Feedback 4
+The user found the platform inclusive and easy to follow, appreciating the language options and step-by-step process.
+
+However, se raised concerns about:
+
+- Technical challenges in rural areas (poor network, power outages).
+- Vital sign monitoring tool (confusion about the tool, cost, and practicality).
+- Too many touchpoints
 
 
 ## Team's Project Pitch Slide Deck
