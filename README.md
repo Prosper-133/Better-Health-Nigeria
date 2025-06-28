@@ -1,6 +1,6 @@
 # Better-Health-Nigeria
 
-Better-Health-Nigeria is a team project on health consultation disparities in rural Nigerian areas.
+Better-Health-Nigeria is a team project on health consultation disparities in rural Nigerian areas. The project was carried out during the Alx_africa Professional Foundation Course.
 
 ## Team Members
 
@@ -46,7 +46,7 @@ Through divergent thinking, we brainstormed indiviually and collectively. We cam
 - Short Message Service (SMS)-based health information platform/ system
 
 
-## Team's Final Idea
+## Team's Final Solution Idea
 
 ![d617399b8e306964329913670caabf00](https://github.com/user-attachments/assets/5b42398d-780d-4d7c-b6ce-d42e01c38b60)
 
@@ -58,7 +58,7 @@ communities with the following features:
 - [x] 24/7 Internet Connectivity with 5G router
 - [x] Electronic device: A Tablet or Flat screen for the telehealth website
 - [x] Free & Easy-to-use vital Sign equipment
-- [x] Biometric Drug Dispenser for rountine, anagestics, antihypertensives drugs etc.
+- [x] Biometric Drug Dispenser for rountine, analgesic, antihypertensives drugs etc.
 
 Just like making a call in a phone booth even when you do not have a phone, this Solution will enable user walk in to the nearest telehealth station and speak with highly
 qualified health Practitioners.
