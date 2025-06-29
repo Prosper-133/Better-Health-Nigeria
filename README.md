@@ -3,7 +3,7 @@
 Better-Health-Nigeria is a team project on health consultation disparities in rural Nigerian areas. The project was carried out during the Alx_africa Professional Foundation Course.
 The reason for this project was to learn how to work in a technical team and acquire collaborative problem-solving skills.
 
-## Team Members
+## Team Members and Their Roles
 
 - Rita Ajirenike - Project Manager (primary); Data Analyst (backup)
 - Prosper Madu - Product Manager (primary); UX Researcher (backup)
