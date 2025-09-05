@@ -54,7 +54,8 @@ Through divergent thinking, we brainstormed indiviually and collectively. We cam
 ![d617399b8e306964329913670caabf00](https://github.com/user-attachments/assets/5b42398d-780d-4d7c-b6ce-d42e01c38b60)
 
 Through convergent thinking, we finalized on a possible solution. The solution idea is;
-- Solar-powered Telehealth Stations: Solar-powered telehealth stations will be built across different areas in
+## Solar-powered Telehealth Stations:
+ Solar-powered telehealth stations will be built across different areas in
 communities with the following features:
 
 - [x] 24/7 power supply with solar panels
