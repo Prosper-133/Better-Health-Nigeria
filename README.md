@@ -1,4 +1,4 @@
-# 🌿 Better Health Nigeria
+#  Better Health Nigeria
 
 ## 🩺 Project Overview
 
