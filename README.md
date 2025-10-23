@@ -72,6 +72,8 @@ Just as phone booths provide connectivity even without personal devices, these s
 Wireframes for the telehealth platform were designed using **Miro**. These visual layouts illustrate user flow and system interaction within the telehealth interface.
 
 🔗 [View Miro Wireframes](https://miro.com/app/board/uXjVIB79Ij4=/?share_link_id=292209300500)
+
+
 📑 [Google Slides Presentation](https://docs.google.com/presentation/d/1QFYnIN8DtuX-x2fcEfo_uIxmViMvieN3QCM61MJIYG8/edit?usp=sharing)
 
 ---
