@@ -37,7 +37,7 @@ Extensive data gathering and research were conducted to understand the underlyin
 
 * **Source:** [Nigeria Health Workforce Dashboard](https://msdat.fmohconnect.gov.ng/dashboard/Health_Workforce?indicator=252&datasource=24&location=1)
 * **Indicator:** Health Workforce Density/Distribution
-* **Chart Provider:** Federal Ministry of Health and Social Welfare, Nigeria.
+* **Chart Provider:** Federal Ministry of Health and Social Welfare, Nigeria (MSDAT platform).
 ---
 ## 💡 Ideation Process
 
