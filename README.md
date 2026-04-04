@@ -23,7 +23,7 @@
 
 ### Health Consultation Disparities in Rural Nigerian Areas
 
-Limited access to quality healthcare consultations remains a pressing challenge in many rural Nigerian regions. This shortage contributes to delayed diagnoses, inadequate treatments, and higher morbidity and mortality rates. In the absence of reliable medical information, misinformation and myths flourish, further endangering public health.
+Limited access to quality healthcare consultations remains a pressing challenge in many rural Nigerian regions. This is as a result of limited health workforce in Nigeria. This shortage contributes to delayed diagnoses, inadequate treatments, and higher morbidity and mortality rates. In the absence of reliable medical information, misinformation and myths flourish, further endangering public health.
 
 Additionally, preventive care efforts are weakened, aggravating both health and economic inequalities. Ensuring access to quality consultations is essential for timely, accurate, and personalized healthcare delivery across Nigeria.
 
@@ -31,10 +31,14 @@ Additionally, preventive care efforts are weakened, aggravating both health and 
 
 ## 📊 Research and Insights
 
-Extensive data gathering and research were conducted to understand the underlying causes of consultation disparities and explore potential solutions. The process involved analyzing health infrastructure gaps, local communication challenges, and technology adoption barriers.
+Extensive data gathering and research were conducted to understand the underlying causes of consultation disparities and explore potential solutions. The process involved analyzing health infrastructure gaps, local communication challenges, low health workforce in Nigeria, and technology adoption barriers.
 
+![Density of Doctor&#39;s](https://github.com/user-attachments/assets/37f2ab78-9901-45f3-9da9-fa4266a1e33a)
+
+* **Source:** [Nigeria Health Workforce Dashboard](https://msdat.fmohconnect.gov.ng/dashboard/Health_Workforce?indicator=252&datasource=24&location=1)
+* **Indicator:** Health Workforce Density/Distribution
+* **Chart Provider:** Federal Ministry of Health and Social Welfare, Nigeria.
 ---
-
 ## 💡 Ideation Process
 
 A combination of **divergent and convergent thinking** techniques was applied to generate and refine ideas. Brainstorming sessions led to a variety of creative solutions, including:
