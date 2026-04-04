@@ -33,7 +33,7 @@ Additionally, preventive care efforts are weakened, aggravating both health and 
 
 Extensive data gathering and research were conducted to understand the underlying causes of consultation disparities and explore potential solutions. The process involved analyzing health infrastructure gaps, local communication challenges, low health workforce in Nigeria, and technology adoption barriers.
 
-![Density of Doctor&#39;s](https://github.com/user-attachments/assets/37f2ab78-9901-45f3-9da9-fa4266a1e33a)
+![chart](https://github.com/user-attachments/assets/cf2f8a8b-82b7-4c81-9c1e-de03ebc166e4)
 
 * **Source:** [Nigeria Health Workforce Dashboard](https://msdat.fmohconnect.gov.ng/dashboard/Health_Workforce?indicator=252&datasource=24&location=1)
 * **Indicator:** Health Workforce Density/Distribution
