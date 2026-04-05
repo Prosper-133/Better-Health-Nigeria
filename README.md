@@ -38,6 +38,9 @@ Extensive data gathering and research were conducted to understand the underlyin
 * **Source:** [Nigeria Health Workforce Dashboard](https://msdat.fmohconnect.gov.ng/dashboard/Health_Workforce?indicator=252&datasource=24&location=1)
 * **Indicator:** Health Workforce Density/Distribution
 * **Chart Provider:** Federal Ministry of Health and Social Welfare, Nigeria (MSDAT platform).
+
+The chart illustrates a significant geographic imbalance in healthcare, where rural-leaning states like Jigawa and Zamfara have as few as 4 to 5 doctors per 100,000 people compared to 70 in the Federal Capital Territory (even that of FCT is still poor). This extreme scarcity means rural residents face significantly longer travel distances and wait times to see a physician, creating a consultation gap where professional medical advice is far more accessible to urban populations. Consequently, this disparity leads to delayed diagnoses and a higher reliance on informal care in underserved rural regions.
+
 ---
 ## 💡 Ideation Process
 
