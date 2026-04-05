@@ -2,6 +2,10 @@
 
 ## 🩺 Project Overview
 
+**Better Health Nigeria** is a collaborative initiative developed to address the **severe disparities in healthcare** access across **rural Nigeria**. The project responds to a critical national shortage where approximately **40,000 doctors serve a population of over 200 million**, leading to delayed diagnoses and high mortality rates in underserved regions. By analyzing data from the Federal Ministry of Health, the project highlights the extreme geographic imbalance in physician density, particularly in states like Jigawa and Zamfara, where access is significantly lower than in urban centers like the Federal Capital Territory.
+
+**The proposed solution is a network of Solar-Powered Telehealth Stations strategically located within rural communities** to provide cheap, seamless access to certified healthcare practitioners. These stations are designed to be self-sustaining and equipped with 5G internet connectivity, tablets for video consultations, and tools for monitoring vital signs. Additionally, the stations include biometric drug dispensers for routine medications, effectively acting as high-tech consultation booths that bridge the distance between patients and doctors, allowing for remote medical support regardless of the physician's physical location.
+
 **Better Health Nigeria** was developed as a collaborative initiative addressing disparities in healthcare consultation within rural Nigerian communities. The project was completed during the **ALX Africa Professional Foundation Course**, with the primary objective of enhancing teamwork and developing collaborative problem-solving abilities.
 
 ---
