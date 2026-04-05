@@ -6,7 +6,7 @@
 
 **The proposed solution is a network of Solar-Powered Telehealth Stations strategically located within rural communities** to provide cheap, seamless access to certified healthcare practitioners. These stations are designed to be self-sustaining and equipped with 5G internet connectivity, tablets for video consultations, and tools for monitoring vital signs. Additionally, the stations include biometric drug dispensers for routine medications, effectively acting as high-tech consultation booths that bridge the distance between patients and doctors, allowing for remote medical support regardless of the physician's physical location.
 
-**Better Health Nigeria** was developed as a collaborative initiative addressing disparities in healthcare consultation within rural Nigerian communities. The project was completed during the **ALX Africa Professional Foundation Course**, with the primary objective of enhancing teamwork and developing collaborative problem-solving abilities.
+**Better Health Nigeria** was developed as a collaborative initiative addressing disparities in healthcare consultation within rural Nigerian communities. The project was done during the **ALX Africa Professional Foundation Course**, with the primary objective of enhancing teamwork and developing collaborative problem-solving abilities.
 
 ---
 
