@@ -43,7 +43,7 @@ The chart illustrates a significant geographic imbalance in healthcare, where ru
 
 [![Nigeria's Doctor Shortage](https://img.youtube.com/vi/n4KMkdUjAYk/maxresdefault.jpg)](https://www.youtube.com/watch?v=n4KMkdUjAYk "Nigeria's Doctor Shortage Video")
 
-The video above was published on January 29, 2026. It is as if it is getting worst.
+The video above was published on January 29, 2026. And the rural areas always get the hardest blow. Nigeria currently faces a critical shortage of medical professionals, with roughly 40,000 doctors serving a population of over 200 million. As highlighted in the report above, this translates to a doctor-to-patient ratio that falls dangerously short of WHO standards, particularly in rural regions.
 
 ---
 ## 💡 Ideation Process
