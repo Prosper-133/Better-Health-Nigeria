@@ -39,7 +39,11 @@ Extensive data gathering and research were conducted to understand the underlyin
 * **Indicator:** Health Workforce Density/Distribution
 * **Chart Provider:** Federal Ministry of Health and Social Welfare, Nigeria (MSDAT platform).
 
-The chart illustrates a significant geographic imbalance in healthcare, where rural-leaning states like Jigawa and Zamfara have as few as 4 to 5 doctors per 100,000 people compared to 70 in the Federal Capital Territory (even that of FCT is still poor). This extreme scarcity means rural residents face significantly longer travel distances and wait times to see a physician, creating a consultation gap where professional medical advice is far more accessible to urban populations. Consequently, this disparity leads to delayed diagnoses and a higher reliance on informal care in underserved rural regions.
+The chart illustrates a significant geographic imbalance in healthcare, where rural-leaning states like Jigawa and Zamfara have as few as 4 to 5 doctors per 100,000 people compared to 70 in the Federal Capital Territory (even that of FCT is still below the standard of World Health Organization). This extreme scarcity means rural residents face significantly longer travel distances and wait times to see a physician, creating a consultation gap where professional medical advice is far more accessible to urban populations. Consequently, this disparity leads to delayed diagnoses and a higher reliance on informal care in underserved rural regions.
+
+[![Nigeria's Doctor Shortage](https://img.youtube.com/vi/n4KMkdUjAYk/maxresdefault.jpg)](https://www.youtube.com/watch?v=n4KMkdUjAYk "Nigeria's Doctor Shortage Video")
+
+The video above was published on January 29, 2026. It is as if it is getting worst.
 
 ---
 ## 💡 Ideation Process
@@ -70,7 +74,7 @@ These stations would be strategically located within rural communities and equip
 * **Free and easy-to-use vital sign equipment**.
 * **Biometric drug dispensers** for routine medications (e.g., analgesics, antihypertensives).
 
-Just as phone booths provide connectivity even without personal devices, these stations would enable individuals to connect directly with certified healthcare practitioners at no cost.
+Just as phone booths provide connectivity even without personal devices, these stations would enable individuals to connect directly with certified healthcare practitioners at no cost. Even doctors outside the country can attend to patients using this telemedicine solution.
 
 ---
 
